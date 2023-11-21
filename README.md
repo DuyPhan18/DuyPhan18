@@ -1,7 +1,7 @@
 ### Hi there 
 #### I'm **Duy** 
 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/duyphan1898)
 <!--
 **DuyPhan18/DuyPhan18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
